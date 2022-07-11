@@ -1,7 +1,7 @@
 import Actions from "./Actions";
 import Message from "./Message";
 import ProfileImage from "./ProfileImage";
-import Timestamp from "./Timestamps";
+import Timestamp from "./Timestamp";
 import User from "./User";
 function Tweet(props) {
   return (

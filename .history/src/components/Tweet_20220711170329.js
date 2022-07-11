@@ -1,8 +1,8 @@
-import Actions from "./Actions";
-import Message from "./Message";
-import ProfileImage from "./ProfileImage";
-import Timestamp from "./Timestamps";
-import User from "./User";
+import Actions from "./components/Actions";
+import Message from "./components/Message";
+import ProfileImage from "./components/ProfileImage";
+import Timestamp from "./components/Timestamp";
+import User from "./components/User";
 function Tweet(props) {
   return (
     <div className="tweet">
